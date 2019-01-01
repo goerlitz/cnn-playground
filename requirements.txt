@@ -1,0 +1,9 @@
+wheel
+pip
+pandas
+jupyter
+jupyterlab
+matplotlib
+tensorflow
+keras
+
